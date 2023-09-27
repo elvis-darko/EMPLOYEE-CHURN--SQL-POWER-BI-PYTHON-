@@ -7,7 +7,8 @@ This project is about employee churn at IBM. Data Analysisis done using SQL. Vis
 Predict the Attrition of an employee based on the various factor given
 
 Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’.
-[Alt text](https://github.com/elvis-darko/EMPLOYEE-CHURN--SQL-POWER-BI-PYTHON-/raw/main/Assets/images/ibm.jpeg)
+
+[Alt text](https://github.com/elvis-darko/EMPLOYEE-CHURN--SQL-POWER-BI-PYTHON-/blob/main/Assets/images/ibm.jpeg)
 
 ## SUMMARY
 | Code      | Name        |   Deployed App |
