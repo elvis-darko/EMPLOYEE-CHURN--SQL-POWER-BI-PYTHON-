@@ -1,0 +1,2 @@
+# EMPLOYEE CHURN (SQL POWER BI PYTHON)
+ This project is about employee churn at IBM. Data Analysisis done using SQL. Visualizations are made using Microsoft Power BI. Additionally, python is used to undertake further analysis and machine learning. A Streamlit App and Fast API will be built to deploy the best performing model on the web. These apps will help HR department determine employess who will be likely to churn in the near future.
