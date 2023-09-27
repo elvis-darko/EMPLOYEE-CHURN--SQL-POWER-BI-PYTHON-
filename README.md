@@ -1,6 +1,9 @@
 # EMPLOYEE CHURN (SQL POWER BI PYTHON)
 
 ## PROJECT DESCRIPTION
+
+[Alt text](https://github.com/elvis-darko/EMPLOYEE-CHURN--SQL-POWER-BI-PYTHON-/blob/main/Assets/images/ibm.jpeg)
+
 This project is about employee churn at IBM. Data Analysisis done using SQL. Visualizations are made using Microsoft Power BI. Additionally, python is used to undertake further analysis and machine learning. A Streamlit App and Fast API will be built to deploy the best performing model on the web. These apps will help HR department determine employess who will be likely to churn in the near future.
 
 
@@ -8,7 +11,7 @@ Predict the Attrition of an employee based on the various factor given
 
 Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’.
 
-[Alt text](https://github.com/elvis-darko/EMPLOYEE-CHURN--SQL-POWER-BI-PYTHON-/blob/main/Assets/images/ibm.jpeg)
+
 
 ## SUMMARY
 | Code      | Name        |   Deployed App |
