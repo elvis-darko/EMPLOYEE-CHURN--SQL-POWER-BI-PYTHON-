@@ -19,7 +19,7 @@ Uncover the factors that lead to employee attrition and explore important questi
 # NOTES ON DATASETS
 This the data about the employee on various factor influencing the attrition from the company.
 <br />
- This is a fictional data set created by IBM data scientists
+ This is a fictional data set created by IBM data scientists.
 
 # SCREESHOTS OF DEPLOYED APP
 
@@ -34,7 +34,7 @@ Use these recommended steps to set up your local machine for this project:
 
 1. **Clone the repo :** To clone this repo, copy the url and paste it in your GitHub desktop or code editor on your local machine.
         
-        https://github.com/elvis-darko/Team_Zurich_Capstone_Project.git
+        https://github.com/elvis-darko/EMPLOYEE-CHURN--SQL-POWER-BI-PYTHON-.git
 
 1. **Create the Python's virtual environment :** <br />This will isolate the required libraries of the project to avoid conflicts.<br />Choose any of the line of code that will work on your local machine.
 
@@ -68,18 +68,19 @@ A streamlit app was added for further exploration of the model. The streamlit ap
         
         Streamlit run streamlit.app.py
 
+## Run Fast API App
 
 # EVALUATION
 The evaluation metric for this challenge is Area Under the Curve (AUC).
 
-The values can be between 0 and 1, inclusive. Where 1 indicates the customer churned and 0 indicates the customer stayed with Expresso.
+The values can be between 0 and 1, inclusive. Where 1 indicates an employee who churned and 0 indicates an employee who stayed with IBM.
 
 Our final work would look like this:
 
-            user_id                                      CHURN
-            00001dbe00e56fc4b1c1b65dda63de2a5ece55f9      0.98
-            000055d41c8a62052dd426592e8a4a3342bf565d      0.12
-            000081dd3245e6869a4a9c574c7050e7bb84c2c8      0.37
+            employee_id                                   CHURN
+            001                                           0.98
+            002                                           0.12
+            003                                           0.37
 
 
 # RESOURCES
@@ -94,8 +95,7 @@ Here are some ressources you would read to have a good understanding of tools, p
 | NAME  |   COUNTRY |   E-MAIL  |
 |:------|:----------|:----------|
 |ELVIS DARKO|GHANA|elvis_darko@outlook.com|
-|FAITH BERIDA|NIGERIA| princesstoy07@yahoo.com |
-|RICHMOND E.Y. ABAKE|GHANA| richie.abake@gmail.com |
-|RICHMOND TETTEH| GHANA|  |
-|JOSEPH GIKUBU| KENYA|gikubujoseph@outlook.com|
-|MARIE GRACE KAGAJU |  RWANDA |  kagajugrace@gmail.com |
+|           |       |           |
+|           |       |           |
+
+
