@@ -18,7 +18,7 @@ Data Analysis is done using SQL. Visualizations are made using Microsoft Power B
 
 
 
-# NOTES ON DATASETS
+## NOTES ON DATASETS
 This the data about the employee on various factor influencing the attrition from the company.
 <br />
  This is a fictional data set created by IBM data scientists.
@@ -59,10 +59,10 @@ This the data about the employee on various factor influencing the attrition fro
 |YearsSinceLastPromotion | The time the employee got the last promotion and it varies between 0 to 15 years | int |
 |YearsWithCurrManager | Number of years employee has worked with current manager and it varies between 0 to 17 years | int |
 
-# SCREESHOTS OF DEPLOYED APPS
+## SCREESHOTS OF DEPLOYED APPS
 
 
-# SETUP
+## SETUP
 It is recommended to have Virtual Studio Code or any other standard code editor on your local machine.<br />Install the required packages locally to your computer.
 
 It is recommended that you run a python version 3.0 and above. 
@@ -98,17 +98,17 @@ Use these recommended steps to set up your local machine for this project:
 
             python -m pip install -r requirements.txt 
 
-# MACHINE LEARNING MODEL DEPLOYMENT
-## Run Streamlit App
+## MACHINE LEARNING MODEL DEPLOYMENT
+### Run Streamlit App
 A streamlit app was added for further exploration of the model. The streamlit app provides a simple Graphic User Interface where predicitons can be made from inputs.
 
 - Run the demo app (being at the root of the repository):
         
         Streamlit run streamlit.app.py
 
-## Run Fast API App
+### Run Fast API App
 
-# EVALUATION
+## EVALUATION
 The evaluation metric for this challenge is Area Under the Curve (AUC).
 
 The values can be between 0 and 1, inclusive. Where 1 indicates an employee who churned and 0 indicates an employee who stayed with IBM.
@@ -121,7 +121,7 @@ Our final work would look like this:
             003                                           0.37
 
 
-# RESOURCES
+## RESOURCES
 Here are some ressources you would read to have a good understanding of tools, packages and concepts used in the project:
 - [How to improve machine learning models](https://neptune.ai/blog/improving-ml-model-performance)
 - [Machine Learning tutorial - A step by step guide](https://github.com/eaedk/Machine-Learning-Tutorials/blob/main/ML_Step_By_Step_Guide.ipynb)
