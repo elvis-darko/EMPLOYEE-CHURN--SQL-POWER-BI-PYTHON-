@@ -23,6 +23,42 @@ This the data about the employee on various factor influencing the attrition fro
 <br />
  This is a fictional data set created by IBM data scientists.
 
+| Variable      | Definition | Data Type |
+|:-----------|:------------|:------------|
+|Age |Age of the Employee| int |
+|Attrition | Employee who stayed: 0 , Employee who leave: 1| int |
+|BusinessTravel: |Frequency of travels | object |
+|DailyRate | Daily Rate of Employee | int |
+|Department | Department to which employees belong to | object |
+|DistanceFromHome | Distance from home from work for each Employee | int |
+|Education | Education level of employees | object |
+|EducationField : Education fields of employees | object |
+|EnvironmentSatisfaction | Satisfaction towards work environment | int |
+|Gender | Gender of employees | object |
+|HourlyRate | Hourly Rate of Employee | int |
+|JobInvolvement | Rate at which employee is involved with work | int|
+|JobLevel | The hierarchical level of employee's role | int |
+|JobRole | Role of employee | object |
+|JobSatisfaction | Level of employee satisfaction towards current role | int |
+|MaritalStatus | Marital status of employee | object |
+|MonthlyIncome | Montly income of Employe between 2094 and 26999 | int |
+|MonthlyRate   | Monthly bonus of employee | int |
+|NumCompaniesWorked | Number of Companies the employee has worked with before the current one | int |
+|Over18 | Age of employee being above 18 years | object |
+|OverTime | Employee working additional hours | object |
+|PercentSalaryHike | Percentage of Salary increase between 11%-25% | int |
+|PerformanceRating | Rating of employee performance | int |
+|RelationshipSatisfaction | Employee satisfation of relationship with current manager | int |
+|StandardHours | standard work hour for each employee: 80 Hours | int |
+|StockOptionLevel | It categorized from 0 to 3 indicate the stock level of employee | int |
+|TotalWorkingYears | Employee`s total working years and it varies between 0 to 40 years | int |
+|TrainingTimesLastYear | Employee`s training time in the last year | int |
+|WorkLifeBalance | The work-life balance of employee | int |
+|YearsAtCompany | Employess`s total working year at the company adn it varies between 0 to 40 years | int |
+|YearsInCurrentRole | Employee`s number of years of holding current position at the company and it varies between 0 to 18 years | int |
+|YearsSinceLastPromotion | The time the employee got the last promotion and it varies between 0 to 15 years | int |
+|YearsWithCurrManager | Number of years employee has worked with current manager and it varies between 0 to 17 years | int |
+
 # SCREESHOTS OF DEPLOYED APPS
 
 
