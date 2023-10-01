@@ -4,7 +4,11 @@
 
 ![Alt text](https://github.com/elvis-darko/EMPLOYEE-CHURN--SQL-POWER-BI-PYTHON-/raw/main/Assets/images/ibm_1.webp)
 
-This project is about employee churn at IBM. Data Analysis is done using SQL. Visualizations are made using Microsoft Power BI. Additionally, python is used to undertake further analysis and machine learning. A Streamlit App and Fast API app will be built to deploy the best performing models on the web. These apps will help the HR department determine employees who will likely leave in the near future based on the various factor given.
+This project is for International Business Machines, popularly known as IBM. It was reported that there have been an increase in the rate at which employees are leaving the company. As Data Analysts at IBM, we are tasked to undertake deep data exploration and analysis to gain insights into employee characteristics and develop machine learning models that will accurately predict the likelihood of an employee leaving the company.
+
+The solution will help the HR department develop policies that will raise employee morale and overall satisfaction. This will help reduce the rate at which employees are leaving the company.
+
+Data Analysis is done using SQL. Visualizations are made using Microsoft Power BI. Additionally, python is used to undertake further analysis and machine learning modeling. A Streamlit App and Fast API app will be built to deploy the best performing models on the web. These apps will help the HR department determine employees who will likely leave in the near future based on the various factors given.
 
 
 ## SUMMARY
